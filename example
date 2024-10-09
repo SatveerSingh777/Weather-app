@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 72.3198,
+    "lat": 30.8602
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 28.57,
+    "feels_like": 27.76,
+    "temp_min": 28.57,
+    "temp_max": 28.57,
+    "pressure": 1002,
+    "humidity": 34,
+    "sea_level": 1002,
+    "grnd_level": 985
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.42,
+    "deg": 137,
+    "gust": 2.46
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1727890901,
+  "sys": {
+    "country": "PK",
+    "sunrise": 1727831089,
+    "sunset": 1727873703
+  },
+  "timezone": 18000,
+  "id": 1167710,
+  "name": "Punjab",
+  "cod": 200
+}
